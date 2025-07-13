@@ -1,3 +1,5 @@
+![PC Performance Tools](./awesome_pc_performance.png)
+
 # 🖥️ Awesome PC Performance Tools & Resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
