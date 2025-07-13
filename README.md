@@ -49,9 +49,9 @@ Whether you're building a new PC, diagnosing a bottleneck, or chasing more FPS �
 ## 📚 Educational Guides & Articles
 
 - [Optimize Windows 11 for Gaming](https://tech-latest.com/how-to-optimize-windows-11-for-gaming-performance/) - How to Optimize Windows 11 for Gaming Performance using 10+ proven methodos 
-- [Is My CPU a Bottleneck?]((https://www.reddit.com/r/pcmasterrace/comments/1901w02/here_is_a_easy_way_to_understand_whether_you_have/)) – How to diagnose CPU limitations in your system and fix them.
-- [How Resolution Affects Bottlenecks]((https://linustechtips.com/topic/1107079-will-increasing-resolution-improve-fps-in-case-of-a-cpu-bottleneck/)) – Why higher resolutions reduce CPU bottlenecks and increase GPU load.
-- [Fixing FPS Drops: Bottleneck or Bug?]((https://hone.gg/blog/fix-fps-drops/)) – Identify the root cause of inconsistent performance in games.
+- [Is My CPU a Bottleneck?](https://www.reddit.com/r/pcmasterrace/comments/1901w02/here_is_a_easy_way_to_understand_whether_you_have/) – How to diagnose CPU limitations in your system and fix them.
+- [How Resolution Affects Bottlenecks](https://linustechtips.com/topic/1107079-will-increasing-resolution-improve-fps-in-case-of-a-cpu-bottleneck/) – Why higher resolutions reduce CPU bottlenecks and increase GPU load.
+- [Fixing FPS Drops: Bottleneck or Bug?](https://hone.gg/blog/fix-fps-drops/) – Identify the root cause of inconsistent performance in games.
 - [Best Balanced CPU-GPU Combos in 2025](#) – Avoid mismatch. A practical pairing guide for modern PC builders.
 
 ---
